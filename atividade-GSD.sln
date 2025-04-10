@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade-GSD", "atividade-GSD\atividade-GSD.csproj", "{301AC913-CC8C-4F9B-859D-BB94CF6AEDC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atualizaçãofinal_gsd", "atividade-GSD\atualizaçãofinal_gsd.csproj", "{301AC913-CC8C-4F9B-859D-BB94CF6AEDC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
